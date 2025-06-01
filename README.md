@@ -1,6 +1,7 @@
 # Malicious-URL-ML-Predict
 ML model developed to predict malicious URLs
 
+# Introduction
 In today’s digital age, one of the increasingly common challenges users face is 
 determining whether a URL is safe to click. We constantly encounter links—whether in emails, 
 on social media platforms, or through everyday web browsing—and each one presents a 
@@ -8,6 +9,7 @@ potential security risk. Malicious URLs can lead to phishing attacks, data theft
 downloads of harmful software. This project seeks to address that risk by leveraging machine 
 learning techniques to identify and classify potentially dangerous URLs, thereby helping users 
 avoid scams and protect their devices.
+
 At the core of this project lies the application of artificial intelligence, particularly within 
 the field of machine learning. A neural network model will be developed to handle the 
 classification task—distinguishing between benign and malicious URLs based on extracted 
@@ -18,4 +20,5 @@ approach enables the system to process complex patterns in URL structures, impro
 accuracy and effectiveness in detecting threats. After the development of this model, it will be 
 compared to previous works to evaluate how well it performs.
 
-[link to data and presentation](https://drive.google.com/drive/folders/15P00sjDKwjs7LtdOMdvyUPFEXpgm2qQx?usp=sharing)
+Above you will find a pdf report of the project, please refer to this for more details.
+[Link to data and presentation pptx](https://drive.google.com/drive/folders/15P00sjDKwjs7LtdOMdvyUPFEXpgm2qQx?usp=sharing)
