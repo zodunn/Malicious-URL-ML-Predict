@@ -17,3 +17,5 @@ string-based components of each URL into a format suitable for learning. This in
 approach enables the system to process complex patterns in URL structures, improving its 
 accuracy and effectiveness in detecting threats. After the development of this model, it will be 
 compared to previous works to evaluate how well it performs.
+
+[link to data and presentation](https://drive.google.com/drive/folders/15P00sjDKwjs7LtdOMdvyUPFEXpgm2qQx?usp=sharing)
